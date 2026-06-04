@@ -29,4 +29,4 @@ jobs:
           CHAOXING_USERNAME: ${{ secrets.CHAOXING_USERNAME }}
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
-        run: python main.py -u "13938791409" -p "wang130." -l "236744672"
+        run: python main.py -u "13938791409" -p "wang130." -l "264213701"
